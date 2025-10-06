@@ -191,4 +191,5 @@ G 0 <br>
 Path found: ['A', 'E', 'D', 'G']
 
 ![12](https://github.com/user-attachments/assets/6baf5824-bbe0-45f0-bf1e-90fecbfdfa6f)
-
+## Result:
+Thus, a graph was constructed and implementation of A star search for the same graph was done successfully.
